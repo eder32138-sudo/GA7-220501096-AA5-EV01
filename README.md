@@ -67,11 +67,11 @@ Cree en GitHub un repositorio público llamado `GA7-AA5-EV01-TAYRA`. Luego conec
 
 ```bash
 git branch -M main
-git remote add origin URL_HTTPS_DE_SU_REPOSITORIO
+git remote add origin https://github.com/eder32138-sudo/GA7-220501096-AA5-EV01
 git push -u origin main
 ```
 
-No deje el texto `URL_HTTPS_DE_SU_REPOSITORIO`: reemplácelo por la dirección real de su repositorio.
+No deje el texto `https://github.com/eder32138-sudo/GA7-220501096-AA5-EV01`: reemplácelo por la dirección real de su repositorio.
 
 ## 7. Verificación pendiente
 Las solicitudes deben ejecutarse en Postman o una herramienta equivalente. Registre capturas reales del registro correcto, inicio de sesión correcto y credenciales incorrectas. No incluya capturas simuladas ni afirme que una prueba fue realizada si todavía no la ejecutó.
