@@ -1,6 +1,1 @@
-ENLACE DEL REPOSITORIO GITHUB
-
-Pegar aquí la URL HTTPS real del repositorio público creado para esta evidencia.
-
-Nombre sugerido del repositorio: GA7-AA5-EV01-TAYRA
-URL: PENDIENTE DE CREAR EN GITHUB
+https://github.com/eder32138-sudo/GA7-220501096-AA5-EV01
